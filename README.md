@@ -1,0 +1,1 @@
+# Automated-testing---Currency-osat-1-4
